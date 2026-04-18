@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-- 📌 **I'm currently working on**: Leading Cloud Security team, secure-by-design architecture solutioning🎓🏗️ <br>- 🙌 **I'm looking to collaborate on**: Security and GRC focused AI projects, DevSecOps  and Security Tools 🛡️<br>- 🌱 **I'm currently learning**: AI-driven Security Governance and  securing AI/LLM solutions 🏦🤖<br>- 💬 **Ask me about**: CISSP/CISM/CCSP Journey,  Zero Trust Architecture implementation & Shift-left  & Next-gen CNAPP Tooling<br>- ⚡ **Fun fact**: Published IEEE Researcher 📚 & 'Best of the Best' Award Winner at Scotiabank 🏆🌟<br>
+
+-📌 **I'm currently working on**: Leading Cloud Security team, secure-by-design architecture solutioning🎓🏗️ <br>-🙌 **I'm looking to collaborate on**: Security and GRC focused AI projects, DevSecOps  and Security Tools 🛡️<br>-🌱 **I'm currently learning**: AI-driven Security Governance and  securing AI/LLM solutions 🏦🤖<br>-💬 **Ask me about**: CISSP/CISM/CCSP Journey,  Zero Trust Architecture implementation & Shift-left  & Next-gen CNAPP Tooling<br>-⚡ **Fun fact**: Published IEEE Researcher 📚 & 'Best of the Best' Award Winner at Scotiabank 🏆🌟<br>
 
 
 ## 🌐 Socials:
